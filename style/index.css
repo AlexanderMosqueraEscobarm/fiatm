@@ -1,0 +1,120 @@
+.navbar a{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.navbar{
+    border: 1.5px solid #000000;
+}
+.navbar a:hover{
+    background-color: #f70000;
+    border-radius: 10px;
+}
+.btn{
+    font-family: 'Lobster', cursive;
+    color: black;
+    background-color: #000000;
+    color: white;
+    border: 2px solid white;
+    font-size: 40px;
+    display: inline-block;
+}
+.btn:hover{
+    color: black;
+    border: 2px solid #e67979;
+    background-color: #f06a6a;
+}
+.card{
+    border: 2px solid #000000;
+    margin-top: 50px;
+    display: inline-block;
+    box-shadow:  0px 1px 8px 2px #000000;
+    background-color: red;
+}
+.card-title{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 30px;
+}
+.saltodelinea{
+    margin-left: 5%;
+}
+.card-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+.list-group-item{
+     text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.btn-toolbar{
+    display: inline;
+}
+.btn__tegustaria{
+    font-family: 'Lobster', cursive;
+    color: rgb(0, 0, 0);
+    border: 2px solid #ec4b4b;
+    font-size: 20px;
+    display: inline-block;
+    background-color: white;
+    margin-left: 5px;
+}
+.btn__tegustaria:hover{
+    background-color: #BA0000;
+    color: white;
+}
+.texto__tegustaria{
+    margin-top: 20px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+}
+.table-responsive{
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 90%;
+}
+.titulotabla{
+    font-family: 'Merienda One', cursive;
+    font-size: 20px;
+    color: #BA0000;
+}
+.texto__tabla{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.carousel{
+    margin-top: 50px;
+}
+.viñeta__img{
+    width: 80px;
+}
+.titulo__lista{
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 30px;
+}
+.img__oferta{
+    width: 400px;
+}
+.img_carro1{
+    width: 200px;
+    border-radius: 30px;
+}
+.img_CasosDeExito2.png{
+    width: 100px;
+    border-radius: 24px;
+}
+.texto__lista{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 18px;
+}
+.btn__suscribirse{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.texto__suscripcion{
+    margin-left: 20px;
+}
